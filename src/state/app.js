@@ -1,13 +1,6 @@
 import { types } from "../actions/types";
 const initialState = {
-  resultToken: "",
-  user: "",
-  applicationItems: "",
-  application: {
-    status: "",
-    affiliates: "",
-    userInfo: "",
-  },
+  isDarkMode: false,
 };
 
 export default (state = initialState, action) => {
