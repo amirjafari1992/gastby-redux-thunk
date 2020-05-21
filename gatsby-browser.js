@@ -5,6 +5,6 @@
  */
 
 // You can delete this file if you're not using it
-export { default as wrapRootElement } from 'src/state/reduxWrapper';
+export { default as wrapRootElement } from './src/state/reduxWrapper';
 
 
