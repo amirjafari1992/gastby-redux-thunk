@@ -24,6 +24,10 @@ const IndexPage = (props) => (
     >
       Dark Mode is {props.darkMode ? "On" : "Off"}
     </button>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )
